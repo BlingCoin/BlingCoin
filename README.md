@@ -1,0 +1,4 @@
+BlingCoin
+=========
+
+Crypto-Currency
